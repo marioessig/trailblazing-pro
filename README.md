@@ -2,7 +2,8 @@
 
 As an avid Salesforce enthuastist, I want to create a place where we can share posts, vote and comment all things Salesforce. Let's grow together and continue to spread the well-known Ohana culture here!
 
-Visit the website: [Trailblazing Pro]()
+Visit the Heroku-based website: [Trailblazing Pro](https://geekpanda-trailblazingpro.herokuapp.com/)
+
 ---
 
 *Tip: install these packages via terminal in the root directory to be able to use this application:* <br>
