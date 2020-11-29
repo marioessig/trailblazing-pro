@@ -2,7 +2,9 @@
 
 As an avid Salesforce enthuastist, I want to create a place where we can share posts, vote and comment all things Salesforce. Let's grow together and continue to spread the well-known Ohana culture here!
 
-Visit the Heroku-based website: [Trailblazing Pro](https://geekpanda-trailblazingpro.herokuapp.com/)
+Visit the Heroku-based* website: [Trailblazing Pro](https://geekpanda-trailblazingpro.herokuapp.com/)
+
+_*This is made possible with [Heroku](https://www.heroku.com/) with [JASWSDB MySQL](https://elements.heroku.com/addons/jawsdb) add-on installed._
 
 ---
 
